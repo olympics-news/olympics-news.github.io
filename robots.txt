@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olympics-news.github.io/sitemap.xml
